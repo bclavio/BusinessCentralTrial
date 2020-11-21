@@ -1,0 +1,6 @@
+HelloWorld.al
+.alpackages/
+.altemplates/
+.alcache/
+.vscode/
+*.app
